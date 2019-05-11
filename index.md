@@ -35,3 +35,13 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+## About me
+
+### resume
+
+- 2018.07 -- now: work for LFRC, CAEP as an assistant researcher. I belong to a team focusing on the  implosion experimental physics of the inertial confinement fusion (ICF). 
+- 2012.09 -- 2018.07: got PhD on Plasma Physics at PKU. The field of study is the plasma physics  specially on the magnetic confinement fusion (MCF), theoretically and numerically.
+- 2008.09 -- 2012.07: got BS on Physics at PKU.
